@@ -17,7 +17,7 @@ const mensagemIgual= `Os valores do campo <b>A</b> e <b>B</b> são iguais`;
             mensagemResposta.innerHTML=mensagemIgual;
             mensagemResposta.style.display ='block';  
         }
-        
+        else
          {
             mensagemResposta.innerHTML=mensagemA;
             mensagemResposta.style.display ='block'; 
